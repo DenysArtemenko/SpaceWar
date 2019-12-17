@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceWar</string>
+    <string name="title_activity_game_main">GameMain</string>
+    <string name="title_activity_main_records">MainRecords</string>
+</resources>
